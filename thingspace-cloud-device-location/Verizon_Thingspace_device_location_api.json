@@ -2,7 +2,7 @@
   "openapi": "3.0.1",
   "info": {
     "title": "ThingSpace Device Location API",
-    "description": "The Device Location API lets you find the location of IoT devices in an acjjcount. You can use a device's location for many purposes, such as:<br/><br/> * Verify that fixed assets are where they are supposed to be. <br/>* Periodically track mobile assets, such as monitoring a fleet of moving trucks on an hourly basis. <br/>* Plan efficient truck routes between devices that need service. <br/>* Estimate the arrival time of a delivery.</br></br>A device's current location can be requested or the previous location of the device (from the cache). You can compare the current and cached locations to verify that a device has not moved or to see how far it has moved. Precise location can determine if the device is currently in motion.",
+    "description": "The Device Location API lets you find the location of IoT devicves in an acjjcount. You can use a device's location for many purposes, such as:<br/><br/> * Verify that fixed assets are where they are supposed to be. <br/>* Periodically track mobile assets, such as monitoring a fleet of moving trucks on an hourly basis. <br/>* Plan efficient truck routes between devices that need service. <br/>* Estimate the arrival time of a delivery.</br></br>A device's current location can be requested or the previous location of the device (from the cache). You can compare the current and cached locations to verify that a device has not moved or to see how far it has moved. Precise location can determine if the device is currently in motion.",
     "license": {
       "name": "Verizon Terms",
       "url": "https://thingspace.verizon.com/legal/terms-of-services/"
