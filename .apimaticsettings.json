@@ -1,6 +1,6 @@
 {
     "OpenAPIDefinitionPaths": [
-        "test/folder","test/folder/New folder","test/folder/New folder/spec"
+        "test/folder"
     ],
     "IgnoreValidationErrors": false
 }
