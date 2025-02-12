@@ -2,5 +2,5 @@
     "OpenAPIDefinitionPaths": [
        "thingspace-cloud-device-location"
     ],
-    "IgnoreValidationErrors": true
+    "IgnoreValidationErrors": false
 }
